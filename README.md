@@ -76,8 +76,7 @@
 
 .
 
-#### Komari-Float 探针悬浮窗 下载地址：
-[https://github.com/Xun-X/Komari-Float/raw/refs/heads/main/download/Komari-Float.7z](https://github.com/Xun-X/Komari-Float/raw/refs/heads/main/download/Komari-Float.7z "GITHUB下载")
+#### Komari-Float 探针悬浮窗 下载地址：[点击下载](https://github.com/Xun-X/Komari-Float/raw/refs/heads/main/download/Komari-Float.7z "GITHUB下载")
 
 .
 
