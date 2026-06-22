@@ -1,5 +1,5 @@
 # Komari-Float
-[![Xun-X](https://img.shields.io/static/v1?label=作者&message=Xun-X&color=F36CB0)](https://github.com/Xun-X/ServerStatusFloat)
+[![Xun-X](https://img.shields.io/static/v1?label=作者&message=Xun-X&color=F36CB0)](https://github.com/Xun-X)
 [![Xun-X](https://img.shields.io/static/v1?label=特别感谢&message=komari-monitor&color=97C40F)](https://github.com/komari-monitor)
 [![Xun-X](https://img.shields.io/static/v1?label=特别感谢&message=Doornail&color=1081C2)](https://www.nodeseek.com/space/16791#/general)
 [![Xun-X](https://img.shields.io/static/v1?label=软件特点&message=便携、简易&color=48C21A)](https://github.com/Xun-X/ServerStatusFloat)
