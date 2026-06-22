@@ -6,13 +6,13 @@
 [![Xun-X](https://img.shields.io/static/v1?label=获取方式&message=点击下载&color=F48041)](https://github.com/Xun-X/Komari-Float/raw/refs/heads/main/download/Komari-Float.7z)
 [![Xun-X](https://img.shields.io/static/v1?label=兼容版本&message=v1.2.3&color=F7F720)](https://github.com/komari-monitor/komari/releases/tag/1.2.3)
 
-探针悬浮窗，Windows显示服务器监视悬浮窗，实时监看服务器状态 (基于 Komari Moniter 探针)
+探针悬浮窗，Windows显示服务器监视悬浮窗，实时监看服务器状态 (基于 Komari Monitor 探针)
 
-关键词：`Komari Moniter 探针` `Komari Moniter 悬浮窗` `Komari Moniter 漂浮窗`
+关键词：`Komari Monitor 探针` `Komari Monitor 悬浮窗` `Komari Monitor 漂浮窗`
 
 ##### 让我们一起共建庞大的监控室大爷团队，时刻掌握小鸡状态！
 
-##### 注意：因为人懒，本项目不跟随官方最新版本更新，监控悬浮窗基于 Komari Moniter v1.2.3 版本开发
+##### 注意：因为人懒，本项目不跟随官方最新版本更新，监控悬浮窗基于 Komari Monitor v1.2.3 版本开发
 
 ## 效果展示：
 #### 详细主题 全显示
@@ -30,9 +30,9 @@
 
 
 ## 程序说明：
-本程序是拉取已搭建好的[Komari Moniter 探针主控]，数据经过处理后用于飘浮窗显示服务器状态，所以需要先在
+本程序是拉取已搭建好的[Komari Monitor 探针主控]，数据经过处理后用于飘浮窗显示服务器状态，所以需要先在
 
-服务器需要搭建好 [Komari Moniter] 探针主控服务端
+服务器需要搭建好 [Komari Monitor] 探针主控服务端
 
 程序运行方式简单说明：
 
@@ -61,7 +61,7 @@
 
 
 #### 特别说明
-因为人比较懒，本项目不跟随原作者版本进行更新，目前版本基于Komari Moniter v1.2.3制作，需要实现监看效果首
+因为人比较懒，本项目不跟随原作者版本进行更新，目前版本基于Komari Monitor v1.2.3制作，需要实现监看效果首
 
 先需有一台服务器搭建主控端再把需要被监控的服务器装上探针agent，通过本程序配置好对应的服务器主控端的WEB，
 
